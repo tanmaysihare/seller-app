@@ -1,0 +1,30 @@
+.Label{
+        float: left;
+        font-weight: bold;
+        flex: 1;
+        color: #464646;
+        margin-bottom: 0.5rem;
+        margin-right: 1rem;
+        font-size: large;
+        margin: 2rem;
+      
+}
+.Select{
+    float: left;
+    font-weight: bold;
+    flex: 1;
+    color: #464646;
+    margin-bottom: 0.5rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    width: 12rem;
+    height: 1.5rem;
+}
+.Select option{
+    font-size: medium;
+}
+#display{
+    display: block;
+    width: 55rem;
+    height: auto;
+}
